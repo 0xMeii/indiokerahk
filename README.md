@@ -16,7 +16,7 @@ Para utilizar AutoHotkey Invoker, necesitarás lo siguiente:
 3. Utiliza la tecla `Caps Lock` para cambiar entre los tres estados de Invoker.
 4. ¡Disfruta de una experiencia de juego más rápida y fluida con Invoker!
 
-### Cómo usar
+## Cómo usar
 
 El programa se puede iniciar desde el archivo Invoker.ahk incluido. Una vez que el programa está en funcionamiento, los hechizos de Invoker se pueden lanzar con las siguientes combinaciones de teclas:
 
@@ -31,10 +31,10 @@ El programa se puede iniciar desde el archivo Invoker.ahk incluido. Una vez que 
 - Forge Spirit: `Ctrl + 3`
 - Chaos Meteor: `Ctrl + 4`
 
-### Cuadrado de hechizos
+## Cuadrado de hechizos
 <img src="https://i.imgur.com/bVeFlyR.png"/>
 
-### Notas
+## Notas
 
 - Este script asume que el usuario ha configurado las teclas de acceso rápido para los hechizos de Invoker a los valores por defecto en Dota 2.
 - El script pasa por 3 estados para cada hechizo: normal, con "shift" pulsado, y con "shift" y "alt" pulsados. El estado actual se muestra en la GUI.
