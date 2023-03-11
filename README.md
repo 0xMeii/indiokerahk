@@ -38,4 +38,4 @@ El programa se puede iniciar desde el archivo Invoker.ahk incluido. Una vez que 
 
 - Este script asume que el usuario ha configurado las teclas de acceso rápido para los hechizos de Invoker a los valores por defecto en Dota 2.
 - El script pasa por 3 estados para cada hechizo: normal, con "shift" pulsado, y con "shift" y "alt" pulsados. El estado actual se muestra en la GUI.
-- El script no es VAC-seguro, y usarlo en juegos online puede resultar en un baneo. <img src="https://i.imgur.com/foB6ggL.png" width="250" img align="right" />
+- El script no es VAC-seguro, y usarlo en juegos online puede resultar en un baneo. <img src="https://i.imgur.com/foB6ggL.png" width="300" img align="right" />
